@@ -4,6 +4,12 @@
 
 Official Docker Image With Chinese Localization.
 
+## Docker Pull Command
+
+Automated builds of the image are available on [AliyunHub](https://dev.aliyun.com/search.html).
+
+`docker pull registry.cn-beijing.aliyuncs.com/nunchuk/openjdk:8-jre-alpine`
+
 ## Supported tags
 
 * `8-jre-alpine` (8-jre)
